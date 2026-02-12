@@ -54,7 +54,7 @@
 &kp F1     &kp F2        &kp F3        &kp F4      &kp F5        &kp F6                              &kp LEFT_BRACE        &kp HOME        &kp UP_ARROW      &kp END           &kp RIGHT_BRACE    &kp PIPE
 &kp GRAVE  &kp EXCL      &kp AT        &kp HASH    &kp DOLLAR    &kp PRCNT                           &kp LEFT_PARENTHESIS  &kp LEFT_ARROW  &kp DOWN          &kp RIGHT         &kp RPAR           &kp TILDE
 &trans     &trans        &trans        &trans      &trans        &trans        &trans    &kp DOLLAR  &kp DEL               &kp LESS_THAN   &kp GREATER_THAN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp UNDERSCORE
-                                       &trans      &trans        &trans        &trans    &kp RCTRL   &kp LC(C)             &trans          &trans
+                                       &trans      &trans        &trans        &trans    &kp RCTRL   &kp LC(C)             &kp RC(C)       &trans
             >;
         };
 
